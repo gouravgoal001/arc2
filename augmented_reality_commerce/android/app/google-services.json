@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308033757865",
+    "project_id": "augmented-reality-commerce",
+    "storage_bucket": "augmented-reality-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308033757865:android:198c914833d8fcf7893fb8",
+        "android_client_info": {
+          "package_name": "com.example.augmentedrealitycommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308033757865-pifk48q1cbskvn9d3jp7jhb79cs8vkkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF2sA4iwRKiuvO5GIFjAUkSYLbsrYnqN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308033757865-pifk48q1cbskvn9d3jp7jhb79cs8vkkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
